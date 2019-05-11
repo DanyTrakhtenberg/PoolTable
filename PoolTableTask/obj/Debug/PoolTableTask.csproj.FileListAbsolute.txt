@@ -1,0 +1,18 @@
+c:\users\dima0070\documents\visual studio 2013\Projects\PoolTableTask\PoolTableTask\bin\Debug\PoolTableTask.exe.config
+c:\users\dima0070\documents\visual studio 2013\Projects\PoolTableTask\PoolTableTask\bin\Debug\PoolTableTask.exe
+c:\users\dima0070\documents\visual studio 2013\Projects\PoolTableTask\PoolTableTask\bin\Debug\PoolTableTask.pdb
+c:\users\dima0070\documents\visual studio 2013\Projects\PoolTableTask\PoolTableTask\obj\Debug\PoolTableTask.csprojResolveAssemblyReference.cache
+c:\users\dima0070\documents\visual studio 2013\Projects\PoolTableTask\PoolTableTask\obj\Debug\PoolTableTask.Properties.Resources.resources
+c:\users\dima0070\documents\visual studio 2013\Projects\PoolTableTask\PoolTableTask\obj\Debug\PoolTableTask.csproj.GenerateResource.Cache
+c:\users\dima0070\documents\visual studio 2013\Projects\PoolTableTask\PoolTableTask\obj\Debug\PoolTableTask.exe
+c:\users\dima0070\documents\visual studio 2013\Projects\PoolTableTask\PoolTableTask\obj\Debug\PoolTableTask.pdb
+c:\users\dima0070\documents\visual studio 2013\Projects\PoolTableTask\PoolTableTask\obj\Debug\PoolTableTask.formPoolTable.resources
+C:\Users\Dany\Desktop\PoolTableTask\PoolTableTask\bin\Debug\PoolTableTask.exe.config
+C:\Users\Dany\Desktop\PoolTableTask\PoolTableTask\obj\Debug\PoolTableTask.exe
+C:\Users\Dany\Desktop\PoolTableTask\PoolTableTask\obj\Debug\PoolTableTask.pdb
+C:\Users\Dany\Desktop\PoolTableTask\PoolTableTask\bin\Debug\PoolTableTask.exe
+C:\Users\Dany\Desktop\PoolTableTask\PoolTableTask\bin\Debug\PoolTableTask.pdb
+C:\Users\Dany\Desktop\PoolTableTask\PoolTableTask\obj\Debug\PoolTableTask.csprojResolveAssemblyReference.cache
+C:\Users\Dany\Desktop\PoolTableTask\PoolTableTask\obj\Debug\PoolTableTask.formPoolTable.resources
+C:\Users\Dany\Desktop\PoolTableTask\PoolTableTask\obj\Debug\PoolTableTask.Properties.Resources.resources
+C:\Users\Dany\Desktop\PoolTableTask\PoolTableTask\obj\Debug\PoolTableTask.csproj.GenerateResource.Cache

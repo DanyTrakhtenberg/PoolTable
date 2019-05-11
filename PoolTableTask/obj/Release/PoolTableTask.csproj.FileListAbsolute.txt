@@ -1,0 +1,8 @@
+C:\Users\dima0070\Documents\Visual Studio 2013\Projects\PoolTableTask\PoolTableTask\bin\Release\PoolTableTask.exe.config
+C:\Users\dima0070\Documents\Visual Studio 2013\Projects\PoolTableTask\PoolTableTask\bin\Release\PoolTableTask.exe
+C:\Users\dima0070\Documents\Visual Studio 2013\Projects\PoolTableTask\PoolTableTask\bin\Release\PoolTableTask.pdb
+C:\Users\dima0070\Documents\Visual Studio 2013\Projects\PoolTableTask\PoolTableTask\obj\Release\PoolTableTask.formPoolTable.resources
+C:\Users\dima0070\Documents\Visual Studio 2013\Projects\PoolTableTask\PoolTableTask\obj\Release\PoolTableTask.Properties.Resources.resources
+C:\Users\dima0070\Documents\Visual Studio 2013\Projects\PoolTableTask\PoolTableTask\obj\Release\PoolTableTask.csproj.GenerateResource.Cache
+C:\Users\dima0070\Documents\Visual Studio 2013\Projects\PoolTableTask\PoolTableTask\obj\Release\PoolTableTask.exe
+C:\Users\dima0070\Documents\Visual Studio 2013\Projects\PoolTableTask\PoolTableTask\obj\Release\PoolTableTask.pdb
